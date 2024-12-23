@@ -47,4 +47,4 @@ Feel free to explore, share feedback, or suggest ideas. While this repository is
 
 ---
 
-### Thank you for visiting the Darius Sculpt repository! 🎉
+### Thank you for visiting the Game Design for Bax Music repository! 🎉
