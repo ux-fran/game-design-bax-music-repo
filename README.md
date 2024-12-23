@@ -7,7 +7,7 @@ This repository documents the journey of creating the **Game design for Bax Musi
 ## 📌 What's Inside
 
 - **Project Progress**:
-  - Track my progress with the [Kanban Board](https://github.com/ux-fran/darius-sculpt-repo/projects/1) or explore the [Backlog](https://github.com/ux-fran/darius-sculpt-repo/issues) for detailed steps.
+  - Track my progress with the [Kanban Board](https://github.com/users/ux-fran/projects/66/views/2) or explore the [Backlog](https://github.com/users/ux-fran/projects/66/views/1) for detailed steps.
 - **Key Milestones**:
   - Milestone breakdowns with links to specific tasks or achievements.
 - **Resources**:
@@ -33,9 +33,10 @@ Stay updated on my creative journey and follow me on my other platforms:
 
 ## 🖼️ A Glimpse of the Project
 
-Here’s a preview of the Darius sculpt! (Images will make this section even more appealing!)
+Here’s a preview of the cute game world! 
 
-![image](https://github.com/user-attachments/assets/6242c3cb-128b-4764-ad53-31b2c67684a7)
+![image](https://github.com/user-attachments/assets/ad89f602-583b-436b-9841-ff4fefea4d1d)
+
 
 
 ---
