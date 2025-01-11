@@ -52,7 +52,7 @@ This project helped me explore various aspects of game design, specifically focu
 - **Key Milestones**:
   - Milestone breakdowns with links to specific tasks or achievements.
 - **Resources**:
-  - Access any related files, references, or additional materials.
+  - Access to any related files, references, or additional materials if and when available.
 
 ---
 
