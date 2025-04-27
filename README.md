@@ -8,6 +8,9 @@ _Project Progress_: **[Bax Music Progress](https://github.com/users/ux-fran/proj
 
 This repository documents the journey of creating the **Game Design for Bax Music**—a fictive assignment for a game design course—as part of my Blender learning adventure. 🎨✨ The project focused on designing a game together with a unique game world in Blender and integrating various creative elements such as storytelling, gameplay mechanics, and environmental design.
 
+## ❓ Questions?
+If you have any questions about this project, feel free to ask them in the [Q&A Discussion](https://github.com/ux-fran/game-design-bax-music-repo/discussions)! 💬
+
 ---
 
 ## 🖼️ A Glimpse of the Project
